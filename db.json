@@ -1,0 +1,30 @@
+{
+  "bills": [
+    {
+      "id": 2,
+      "title": "Rent",
+      "date": "2021-05-07",
+      "amount": "29000"
+    },
+    {
+      "id": 3,
+      "title": "Power Bill",
+      "date": "2021-12-07",
+      "amount": "1200"
+    },
+    {
+      "bills": {},
+      "title": "Water Bill",
+      "date": "2022-10-10",
+      "amount": "500.00",
+      "id": 4
+    },
+    {
+      "bills": {},
+      "title": "Zuku Wifi",
+      "date": "2022-10-09",
+      "amount": "4000",
+      "id": 5
+    }
+  ]
+}
